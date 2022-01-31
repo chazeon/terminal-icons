@@ -9,3 +9,7 @@ The following icons are currently collected:
   - SDSC
 - Environments
   - Conda
+
+### Example
+
+<img src="screenshot/001.png" width=320>
